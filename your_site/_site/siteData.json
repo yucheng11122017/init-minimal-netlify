@@ -2,13 +2,38 @@
   "enableSearch": true,
   "pages": [
     {
+      "src": "index.md",
+      "title": "Hello World",
       "headings": {
         "welcome-to-markbind": "Welcome to Markbind"
       },
-      "footer": "footer.md",
-      "src": "index.md",
-      "title": "Hello World",
-      "layout": "default"
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic1.md",
+      "title": "",
+      "headings": {
+        "topic-1": "Topic 1"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic2.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3a.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3b.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
     }
   ]
 }
